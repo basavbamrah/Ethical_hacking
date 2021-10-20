@@ -1,3 +1,6 @@
+'''
+Script to detect the key strokes on a system
+'''
 import os
 from pynput.keyboard import Listener
 
